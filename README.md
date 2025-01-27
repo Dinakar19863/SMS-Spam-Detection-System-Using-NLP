@@ -18,7 +18,7 @@ Use the Final Trained Classifier to Classify New Messages: Use the final model t
 
 Usage:
 
-Clone the repository: git clone https://github.com/username/sms-spam-detection.git
+Clone the repository: git clone https://github.com/Dinakar19863/sms-spam-detection.git
 
 Install the required packages:
 
